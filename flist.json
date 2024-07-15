@@ -2,11 +2,15 @@
   "files": [
     {
       "path": "click.wav",
-      "url": "https://github.com/Withors/thing/raw/main/click.wav"
+      "url": "http://glstt.free.nf/click.wav"
     },
     {
       "path": "error.wav",
-      "url": "https://github.com/Withors/thing/raw/main/error.wav"
+      "url": "http://glstt.free.nf/error.wav"
+    },
+    {
+      "path": "panic.wav",
+      "url": "http://glstt.free.nf/panic.wav"
     }
   ]
 }
