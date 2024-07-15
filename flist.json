@@ -3,6 +3,10 @@
     {
       "path": "click.wav",
       "url": "https://github.com/Withors/thing/raw/main/click.wav"
+    },
+    {
+      "path": "error.wav",
+      "url": "https://github.com/Withors/thing/raw/main/error.wav"
     }
   ]
 }
