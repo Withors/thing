@@ -7,6 +7,10 @@
     {
       "path": "error.wav",
       "url": "https://github.com/Withors/thing/raw/main/error.wav"
+    },
+    {
+      "path": "legenda.png",
+      "url": "https://github.com/Withors/thing/raw/main/legenda.png"
     }
   ]
 }
