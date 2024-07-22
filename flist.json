@@ -11,6 +11,14 @@
     {
       "path": "legenda.png",
       "url": "https://github.com/Withors/thing/raw/main/legenda.png"
+    },
+    {
+      "path": "TargetHud.png",
+      "url": "https://github.com/Withors/thing/raw/main/TargetHud.png"
+    },
+    {
+      "path": "ESP.png",
+      "url": "https://github.com/Withors/thing/raw/main/ESP.png"
     }
   ]
 }
