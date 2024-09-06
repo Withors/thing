@@ -21,7 +21,7 @@
   },
   "Fabric;1.20.1": {
     "MinecraftClass": "net/minecraft/class_310",
-    "MinecraftInstanceMethod": "method_1551",
+    "MinecraftInstanceField": "method_1551",
     "PlayerClass": "net/minecraft/class_746",
     "PlayerField": "field_1724",
     "SetSprintingMethod": "method_5728",
