@@ -20,15 +20,23 @@
     "FallDistanceField": "C"
   },
   "Fabric;1.20.1": {
-    "MinecraftClass": "net/minecraft/client/MinecraftClient",
-    "MinecraftInstanceField": "INSTANCE",
-    "PlayerClass": "net/minecraft/entity/player/PlayerEntity",
-    "PlayerField": "field_1234",
-    "SetSprintingMethod": "setSprinting",
-    "JumpMethod": "jump",
-    "RightClickDelayField": "rightClickDelayTimer",
-    "TimerClass": "net/minecraft/util/Timer",
-    "TimerField": "TIMER",
-    "TimerMsPerTickField": "msPerTick"
+    "MinecraftClass": "net/minecraft/class_310",
+    "MinecraftInstanceMethod": "method_1551",
+    "PlayerClass": "net/minecraft/class_746",
+    "PlayerField": "field_1724",
+    "SetSprintingMethod": "method_5728",
+    "JumpMethod": "dK",
+    "RightClickDelayField": "aI",
+    "TimerClass": "dkk",
+    "TimerField": "P",
+    "TimerMsPerTickField": "d",
+    "PlayerX": "m",
+    "PlayerY": "n",
+    "PlayerZ": "0",
+    "PlayerOldX": "zo",
+    "PlayerOldY": "yo",
+    "PlayerOldZ": "zo",
+    "GroundMethod": "ao",
+    "FallDistanceField": "C"
   }
 }
