@@ -1,0 +1,26 @@
+{
+  "Vanilla;1.16.5": {
+    "MinecraftClass": "djz",
+    "MinecraftInstanceField": "F",
+    "PlayerClass": "dzm",
+    "PlayerField": "s",
+    "SetSprintingMethod": "g",
+    "JumpMethod": "dK",
+    "RightClickDelayField": "aI",
+    "TimerClass": "dkk",
+    "TimerField": "P",
+    "TimerMsPerTickField": "d"
+  },
+  "Fabric;1.20.1": {
+    "MinecraftClass": "net/minecraft/client/MinecraftClient",
+    "MinecraftInstanceField": "INSTANCE",
+    "PlayerClass": "net/minecraft/entity/player/PlayerEntity",
+    "PlayerField": "field_1234",
+    "SetSprintingMethod": "setSprinting",
+    "JumpMethod": "jump",
+    "RightClickDelayField": "rightClickDelayTimer",
+    "TimerClass": "net/minecraft/util/Timer",
+    "TimerField": "TIMER",
+    "TimerMsPerTickField": "msPerTick"
+  }
+}
